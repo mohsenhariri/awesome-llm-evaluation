@@ -136,6 +136,7 @@ Key papers on LLM evaluation methodology.
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) : Position bias, verbosity bias, self-enhancement bias analysis
 - [Can LLMs Follow Simple Rules?](https://arxiv.org/abs/2311.04235) : Instruction following evaluation methodology
 - [Agents of Chaos](https://arxiv.org/abs/2502.17407) : Multi-agent failure modes (124 internal emails with PII, circular loops, false completion reports)
+- [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265) : ICLR 2026 method for posterior performance estimates and sampling uncertainty from repeated binary or graded outcomes; [Scorio code](https://github.com/mohsenhariri/scorio)
 
 ## Blog Posts and Articles
 
